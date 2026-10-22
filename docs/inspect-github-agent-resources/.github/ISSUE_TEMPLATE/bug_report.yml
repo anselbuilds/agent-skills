@@ -1,0 +1,30 @@
+name: Bug report
+description: Report a reproducible problem using synthetic inputs.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do not include credentials, private notes, customer content, or sensitive vulnerability details.
+        For sensitive reports, follow SECURITY.md. Use a minimal synthetic reproduction here.
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment and version
+      description: Skill version or commit, Node version, OS, and agent host if relevant. Omit identifying local paths.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction
+      description: Command or prompt and minimal synthetic input. Do not paste private reports.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Expected and observed behavior
+      description: Include exit code or a sanitized error when relevant.
+    validations:
+      required: true
