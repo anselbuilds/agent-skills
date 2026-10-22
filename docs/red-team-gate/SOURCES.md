@@ -9,7 +9,7 @@ The skill combines established methods from philosophy of science, decision rese
 | Steelmanning (Step 1) | The principle of charity in interpretation, associated with Neil Wilson and Donald Davidson. "Steelmanning" is an informal recent term, the counterpart of the straw-man fallacy. |
 | Severe testing | Deborah G. Mayo, *Error and the Growth of Experimental Knowledge*, University of Chicago Press, 1996. Deborah G. Mayo, *Statistical Inference as Severe Testing: How to Get Beyond the Statistics Wars*, Cambridge University Press, 2018. |
 | Bayesian disconfirmation | Rudolf Carnap, *Logical Foundations of Probability*, University of Chicago Press, 1950 (2nd ed. 1962). Carl G. Hempel, "Studies in the Logic of Confirmation (I and II)", *Mind* 54 (1945): 1–26 and 97–121. |
-| Falsifiability; falsifier demand | Karl Popper, *Logik der Forschung*, 1934 (English: *The Logic of Scientific Discovery*, 1959). Karl Popper, *Conjectures and Refutations*, 1963 (a US edition is dated 1962). |
+| Falsifiability; falsifier demand | Karl Popper, *Logik der Forschung*, 1934 (Springer's record gives 1935, doi:10.1007/978-3-7091-4177-9; English: *The Logic of Scientific Discovery*, 1959). Karl Popper, *Conjectures and Refutations*, 1963 (a US edition is dated 1962). |
 | Research-programme test | Imre Lakatos, "Falsification and the Methodology of Scientific Research Programmes", in Imre Lakatos and Alan Musgrave (eds.), *Criticism and the Growth of Knowledge*, Cambridge University Press, 1970, pp. 91–196. Use-novelty: Elie Zahar, "Why did Einstein's Programme supersede Lorentz's? (I)", *British Journal for the Philosophy of Science* 24, no. 2 (1973): 95–123, doi:10.1093/bjps/24.2.95; later adopted by Lakatos. |
 | Scope-breaking | Thomas S. Kuhn, *The Structure of Scientific Revolutions*, University of Chicago Press, 1962. |
 | Dialectic | Gregory Vlastos, "The Socratic Elenchus", *Oxford Studies in Ancient Philosophy* 1 (1983): 27–58. |
@@ -20,7 +20,7 @@ The skill combines established methods from philosophy of science, decision rese
 
 ## How the references were checked
 
-The core references (severe testing, research programmes, pre-mortem, and the cross-cutting methods) were checked during the skill's private development by a two-model research pass: one model searched broadly, a second model checked the results against primary sources. That pass caught one invented reference and corrected several details before anything was used. In October 2026 the article records for Mitchell, Russo and Pennington (1989), Mellers, Hertwig and Kahneman (2001) and Zahar (1973) were checked against the publishers' and Crossref records. Not every page number or quotation location was checked against the original text. The items below are open:
+The core references (severe testing, research programmes, pre-mortem, and the cross-cutting methods) were checked during the skill's private development by a two-model research pass: one model searched broadly, a second model checked the results against primary sources. That pass caught one invented reference and corrected several details before anything was used. In October 2026 the article records for Mitchell, Russo and Pennington (1989), Mellers, Hertwig and Kahneman (2001) and Zahar (1973) were checked against the publishers' and Crossref records. The eight references in the method article (`method.md`) were checked in October 2026 against Crossref, publisher, *Harvard Business Review* and *Stanford Encyclopedia of Philosophy* records; each footnote there states what was checked. Not every page number or quotation location was checked against the original text. The items below are open:
 
 - Use-novelty: the Zahar (1973) article is confirmed as a publication, but the passage defining use-novelty, and the place where Lakatos adopts it, have not been checked in the original text.
 - Popper, *Conjectures and Refutations*: cited as a work, without page references; the edition used for any page reference is not fixed yet.
@@ -29,7 +29,7 @@ The core references (severe testing, research programmes, pre-mortem, and the cr
 ## Corrections built into the cards
 
 - **Pre-mortem.** The popular claim that imagining a future failure improves reason-finding by 30% is repeated from Klein (2007), who attributes it to Mitchell, Russo and Pennington (1989). That study points to certainty about the outcome, not the time shift, as the driver, and the figure was not located verbatim in its accessible text.
-- **Dialectic.** The "thesis, antithesis, synthesis" formula is commonly misattributed to Hegel. The cards describe the method instead.
+- **Dialectic.** The "thesis, antithesis, synthesis" formula is commonly misattributed to Hegel. The triadic terms are Fichte's; Hegel never adopted them to describe his own philosophy (Julie E. Maybee, "Hegel's Dialectics", in Edward N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy*, Winter 2020 edition). The cards describe the method instead.
 - **Research programmes.** "Degenerating" is defined by the absence of confirmed new predictions, not by the absorption of known anomalies.
 
 ## Third-party material
