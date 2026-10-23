@@ -28,4 +28,4 @@ python3 scripts/watchlist.py handoff <watch-id>
 
 個人安裝在 ~/.agents/skills/price-watch 時請明定 PRICE_WATCH_DB 或 --db；程式把 .agents/skills 視為專案布局。CLI 初次查詢也會初始化 DB。完整雙語安裝與合成示例見發布 repo 根目錄 README。
 
-Experimental v0.1.0，Ansel 署名與維護，採 [MIT](LICENSE)。完整[安裝及首次使用](https://github.com/anselbuilds/safari-price-watch/tree/v0.1.0#install-and-use)。一般問題用 [Issues](https://github.com/anselbuilds/safari-price-watch/issues)，敏感漏洞用[私密回報](https://github.com/anselbuilds/safari-price-watch/security/advisories/new)，不承諾回覆時限。
+Experimental v0.1.0，Ansel 署名與維護，採 [MIT](LICENSE)。完整[安裝及首次使用](https://github.com/anselbuilds/safari-price-watch/tree/v0.1.0#install-and-use)。一般問題用 [Issues](https://github.com/anselbuilds/agent-skills/issues)，敏感漏洞用[私密回報](https://github.com/anselbuilds/agent-skills/security/advisories/new)，不承諾回覆時限。

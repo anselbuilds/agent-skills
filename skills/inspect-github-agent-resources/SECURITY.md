@@ -10,8 +10,8 @@ An agent may send the text it reads to its model provider. The helpers' local be
 
 Maintainer: Ansel. This trial release has no guaranteed response time.
 
-Use [Issues](https://github.com/anselbuilds/inspect-github-agent-resources/issues) for non-sensitive reproducible bugs. Include the runtime version, command, expected and observed results, and a minimal synthetic example.
+Use [Issues](https://github.com/anselbuilds/agent-skills/issues) for non-sensitive reproducible bugs. Include the runtime version, command, expected and observed results, and a minimal synthetic example.
 
-For sensitive vulnerabilities, use [GitHub private vulnerability reporting](https://github.com/anselbuilds/inspect-github-agent-resources/security/advisories/new), also available through Security → Advisories → Report a vulnerability. If that route is unavailable, do not post sensitive details to Issues; report only that the private channel is unavailable. Do not include credentials, customer data, private configurations, or live exploit targets.
+For sensitive vulnerabilities, use [GitHub private vulnerability reporting](https://github.com/anselbuilds/agent-skills/security/advisories/new), also available through Security → Advisories → Report a vulnerability. If that route is unavailable, do not post sensitive details to Issues; report only that the private channel is unavailable. Do not include credentials, customer data, private configurations, or live exploit targets.
 
 Version v0.1.0 is a trial release. Reports are reviewed by Ansel on a best-effort basis; there is no committed support window or response deadline.

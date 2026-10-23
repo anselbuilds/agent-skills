@@ -69,3 +69,5 @@ See [VALIDATION.md](../../docs/red-team-gate/VALIDATION.md) for the setup, the l
 ## Sources
 
 The methods come from philosophy of science, decision research, and security practice. Full references, how they were checked, and the known limits are in [SOURCES.md](../../docs/red-team-gate/SOURCES.md).
+
+`VALIDATION.md`, `SOURCES.md` and the method article snapshot live in the repository under `docs/red-team-gate/`, not in this folder, so their links work on GitHub but not in an installed copy.

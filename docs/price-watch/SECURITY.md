@@ -2,7 +2,7 @@
 
 Maintainer: Ansel. This experimental release is provided under MIT, without a promised response time or committed support window.
 
-Use [Issues](https://github.com/anselbuilds/safari-price-watch/issues) for non-sensitive bugs with synthetic reproductions. For sensitive vulnerabilities, use [private vulnerability reporting](https://github.com/anselbuilds/safari-price-watch/security/advisories/new), also available through Security → Advisories → Report a vulnerability. If the private route is unavailable, report only that it is unavailable; never place sensitive details in a public issue.
+Use [Issues](https://github.com/anselbuilds/agent-skills/issues) for non-sensitive bugs with synthetic reproductions. For sensitive vulnerabilities, use [private vulnerability reporting](https://github.com/anselbuilds/agent-skills/security/advisories/new), also available through Security → Advisories → Report a vulnerability. If the private route is unavailable, report only that it is unavailable; never place sensitive details in a public issue.
 
 The Python helper stores a plaintext SQLite registry. Its commands can create directories and a database, update local rows and print stored data. It does not contact websites, control Safari, schedule jobs or deliver notifications. File permissions are best-effort OS controls, not encryption. Do not store credentials or browser sessions; remove sensitive URL parameters and evidence text before sharing.
 
