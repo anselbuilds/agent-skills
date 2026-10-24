@@ -96,7 +96,7 @@ State first what would count against the claim. If no possible observation could
 2. Bring the two into contact: find where they are incompatible, what each assumes without saying, and which edge cases break each.
 3. Look for a position that keeps what is right in both. If the original claim holds only after this narrowing, the verdict is weakened.
 
-**Misuses:** staging a debate with a feeble opponent. Also: attributing the "thesis, antithesis, synthesis" formula to Hegel. Scholars commonly trace the triad to Fichte and to its popularization by Chalybäus; describe the method instead of naming the formula.
+**Misuses:** staging a debate with a feeble opponent. Also: attributing the "thesis, antithesis, synthesis" formula to Hegel. Scholars commonly trace the triad to Fichte; describe the method instead of naming the formula.
 
 *Source: the Socratic method of questioning (elenchus) as analyzed by Vlastos (1983).*
 

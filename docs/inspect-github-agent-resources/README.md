@@ -100,4 +100,4 @@ See [scanner coverage](../../skills/inspect-github-agent-resources/references/sc
 
 This release uses [MIT](../../LICENSE), with a copy inside the installable skill folder. Author and maintainer: Ansel. Upstream references are documented in the [skill README](../../skills/inspect-github-agent-resources/README.md); external material is not relicensed by this package.
 
-Use [Issues](https://github.com/anselbuilds/inspect-github-agent-resources/issues) with synthetic reproductions for ordinary bugs. Sensitive reports follow [SECURITY.md](SECURITY.md) through GitHub private vulnerability reporting. No response time is promised. See [release notes](CHANGELOG.md).
+Use [Issues](https://github.com/anselbuilds/agent-skills/issues) with synthetic reproductions for ordinary bugs. Sensitive reports follow [SECURITY.md](SECURITY.md) through GitHub private vulnerability reporting. No response time is promised. See [release notes](CHANGELOG.md).
