@@ -4,13 +4,13 @@ Each skill has its own versions and tags (`{skill}-v{version}`).
 
 ## red-team-gate
 
-### 0.1.0, tag `red-team-gate-v0.1.0`, [release: date]
+### 0.1.0, tag `red-team-gate-v0.1.0`, 2026-10-24
 
 First public release, experimental. Tested on Codex on macOS; see `docs/red-team-gate/VALIDATION.md` for what was and was not tested.
 
 ## inspect-github-agent-resources
 
-### 0.1.0, tag `inspect-github-agent-resources-v0.1.0`, [release: date]
+### 0.1.0, tag `inspect-github-agent-resources-v0.1.0`, 2026-10-24
 
 Moved from anselbuilds/inspect-github-agent-resources, release v0.1.0 (commit 2d43edf0). The content is the same as that release, except that the links for reporting issues and security problems now point to this repository, because the old repository is archived.
 
@@ -37,7 +37,7 @@ Content/path changes:
 
 ## price-watch
 
-### 0.1.0, tag `price-watch-v0.1.0`, [release: date]
+### 0.1.0, tag `price-watch-v0.1.0`, 2026-10-24
 
 Moved from anselbuilds/safari-price-watch, release v0.1.0 (commit 408477fe). The installable name `price-watch` is unchanged. The content is the same as that release, except that the links for reporting issues and security problems now point to this repository, because the old repository is archived.
 
