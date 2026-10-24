@@ -39,4 +39,4 @@ Maintained by Ansel. Issues are open for bug reports and questions. There is no 
 
 ## Earlier repositories
 
-`inspect-github-agent-resources` and `price-watch` were first published as separate repositories, anselbuilds/inspect-github-agent-resources and anselbuilds/safari-price-watch. They are not archived yet. Archiving is planned after the collection is published and migration is verified. Their existing history, tags and v0.1.0 releases will remain there.
+`inspect-github-agent-resources` and `price-watch` were first published as separate repositories, anselbuilds/inspect-github-agent-resources and anselbuilds/safari-price-watch. Both repositories are archived. Their existing history, tags and v0.1.0 releases remain there.
