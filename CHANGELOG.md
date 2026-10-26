@@ -2,6 +2,14 @@
 
 Each skill has its own versions and tags (`{skill}-v{version}`).
 
+## prompt-architect
+
+### 0.1.0, tag `prompt-architect-v0.1.0`, 2026-10-26
+
+First public release, experimental, by Ansel under MIT. Includes the task-method workflow, first-party vendor source list, installation instructions, and a bilingual [first-use tutorial](docs/prompt-architect/FIRST-USE.md).
+
+Codex installation and discovery, revised practice cases and a naturally refused-fetch fallback were checked on macOS; see [VALIDATION.md](docs/prompt-architect/VALIDATION.md). The instruction body is unchanged from that tested candidate; the identical description is now quoted so strict YAML parsers accept the frontmatter. Generated prompts have not been evaluated on their target platforms with real inputs. A separate Trigpoint method article is not part of this release.
+
 ## red-team-gate
 
 ### 0.1.0, tag `red-team-gate-v0.1.0`, 2026-10-24
