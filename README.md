@@ -6,7 +6,7 @@ Agent skills by Ansel. Each folder under `skills/` installs on its own.
 |---|---|---|---|---|
 | [red-team-gate](skills/red-team-gate/) | Puts one claim through an independent attempt to refute it before you rely on it. | 0.1.0 | experimental prerelease | Codex on macOS |
 | [inspect-github-agent-resources](skills/inspect-github-agent-resources/) | Reviews skills, plugins, MCP servers and agent templates for task fit, security risks and version changes. | 0.1.0 | trial release (prerelease) | macOS arm64 helper tests; host-native discovery untested |
-| [price-watch](skills/price-watch/) | Keeps a local price-watch registry, setup cards and verified state for Safari Notify Me. No scraper, scheduler or notification backend. | 0.1.0 | experimental prerelease | macOS arm64 CLI tests; host-native discovery untested |
+| [price-watch](skills/price-watch/) | Keeps a local price-watch registry, setup cards and verified state for Safari Notify Me. No scraper, scheduler or notification backend. [First-use tutorial](docs/price-watch/FIRST-USE.md). | 0.1.0 | experimental prerelease | macOS arm64 CLI tests; host-native discovery untested |
 | [prompt-architect](skills/prompt-architect/) | Builds a task method, reads current vendor guidance, and writes a ready-to-paste prompt. [First-use tutorial](docs/prompt-architect/FIRST-USE.md). | 0.1.0 | experimental prerelease | Codex on macOS; Claude Code by explicit file path only |
 
 "Verified on" states the tested scope for each skill. Helper or CLI tests do not establish host-native installation or discovery. See each skill's validation record under `docs/`.
