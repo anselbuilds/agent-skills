@@ -10,6 +10,12 @@ First public release, experimental, by Ansel under MIT. Includes the task-method
 
 Codex installation and discovery, revised practice cases and a naturally refused-fetch fallback were checked on macOS; see [VALIDATION.md](docs/prompt-architect/VALIDATION.md). The instruction body is unchanged from that tested candidate; the identical description is now quoted so strict YAML parsers accept the frontmatter. Generated prompts have not been evaluated on their target platforms with real inputs. A separate Trigpoint method article is not part of this release.
 
+## concept-relations
+
+### 0.1.0, tag `concept-relations-v0.1.0`, [release: date]
+
+First public release, experimental. Vocabulary v0.1. See `docs/concept-relations/VALIDATION.md` for what was and was not tested.
+
 ## red-team-gate
 
 ### 0.1.0, tag `red-team-gate-v0.1.0`, 2026-10-24
