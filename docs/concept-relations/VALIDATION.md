@@ -2,7 +2,7 @@
 
 What has been tested and what has not.
 
-**Status:** 0.1.0 experimental prerelease, [release: date]. One agreement test so far (October 2026), run by AI agents only. It measures how often agents using this skill choose the same link type as a reference coder. It is not an accuracy figure, and no person has labelled anything.
+**Status:** 0.1.0 experimental prerelease, 2026-10-28. One agreement test so far (October 2026), run by AI agents only. It measures how often agents using this skill choose the same link type as a reference coder. It is not an accuracy figure, and no person has labelled anything.
 
 **Version tested:** a four-type draft of this skill. Besides `prereq`, `specializes` and `contrasts`, it had an optional fourth type, `applies` (a theory or method used on a phenomenon, problem, or situation). The draft was changed after the test (§5), and the changes have not been re-tested.
 

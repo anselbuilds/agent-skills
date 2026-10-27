@@ -12,7 +12,7 @@ Codex installation and discovery, revised practice cases and a naturally refused
 
 ## concept-relations
 
-### 0.1.0, tag `concept-relations-v0.1.0`, [release: date]
+### 0.1.0, tag `concept-relations-v0.1.0`, 2026-10-28
 
 First public release, experimental. Vocabulary v0.1. See `docs/concept-relations/VALIDATION.md` for what was and was not tested.
 
