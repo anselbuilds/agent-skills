@@ -1,0 +1,44 @@
+name: tests
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  python-tests:
+    name: python-tests (${{ matrix.os }})
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [macos-latest, ubuntu-latest]
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          # Documented floor and tested line for price-watch (docs/price-watch/VALIDATION.md).
+          python-version: '3.9'
+      - name: Run price-watch CLI/state tests
+        run: python3 -m unittest discover -s tests/price-watch -v
+
+  node-tests:
+    name: node-tests (${{ matrix.os }})
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [macos-latest, ubuntu-latest]
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          # Recommended tested line for inspect-github-agent-resources (docs/inspect-github-agent-resources/README.md).
+          node-version: '24'
+      - name: Run inspect-github-agent-resources helper tests
+        run: >-
+          node --test
+          skills/inspect-github-agent-resources/scripts/tests/static-agent-resource-scan.test.mjs
+          skills/inspect-github-agent-resources/scripts/tests/compare-snapshots.test.mjs
