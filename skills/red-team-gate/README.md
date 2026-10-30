@@ -78,7 +78,7 @@ Tested on: Codex on macOS, using `~/.codex/skills/red-team-gate/`. The paths in 
 
 ## First real use
 
-> Use red-team-gate on this claim: "<claim>". The support offered is: "<support>". It matters because "<decision or publication that depends on it>". Report the verdict, the strongest attack, and what was not checked.
+> Use red-team-gate on this claim: "`<claim>`". The support offered is: "`<support>`". It matters because "`<decision or publication that depends on it>`". Report the verdict, the strongest attack, and what was not checked.
 
 > Use red-team-gate on the recommendation in section 3 of this document. First list the claims it rests on and ask me which to review.
 
