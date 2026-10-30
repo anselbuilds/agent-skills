@@ -2,7 +2,7 @@
 
 What has been tested, what has not, and the answer key for the practice claims.
 
-**Status:** release candidate, not yet released. Two small tests so far: a trial of the private predecessor (September 2026) and an acceptance run of the first release candidate on one agent host (October 2026). Neither is an accuracy figure. The method wording revised after the acceptance run (§3) has not been re-run.
+**Status:** v0.1.0 was published on 2026-10-24 as an [experimental prerelease](https://github.com/anselbuilds/agent-skills/releases/tag/red-team-gate-v0.1.0). The acceptance results below describe the first release candidate, not a new test of the released package. Two small tests so far: a trial of the private predecessor (September 2026) and an acceptance run of the first release candidate on one agent host (October 2026). Neither is an accuracy figure. The method wording revised after the acceptance run (§3) has not been re-run.
 
 ## 1. Planted-error trial of the private predecessor, September 2026
 

@@ -4,7 +4,7 @@ Agent skills by Ansel. Each folder under `skills/` installs on its own.
 
 | Skill | What it does | Version | Status | Verified on |
 |---|---|---|---|---|
-| [red-team-gate](skills/red-team-gate/) | Puts one claim through an independent attempt to refute it before you rely on it. | 0.1.0 | experimental prerelease | Codex on macOS |
+| [red-team-gate](skills/red-team-gate/) | Puts one claim through an independent attempt to refute it before you rely on it. [Report guide](skills/red-team-gate/README.md#read-a-report) · [Try it](skills/red-team-gate/README.md#try-it-without-installing). | 0.1.0 | experimental prerelease | Codex on macOS |
 | [inspect-github-agent-resources](skills/inspect-github-agent-resources/) | Reviews skills, plugins, MCP servers and agent templates for task fit, security risks and version changes. | 0.1.0 | trial release (prerelease) | macOS arm64 helper tests; host-native discovery untested |
 | [price-watch](skills/price-watch/) | Keeps a local price-watch registry, setup cards and verified state for Safari Notify Me. No scraper, scheduler or notification backend. [First-use tutorial](docs/price-watch/FIRST-USE.md). | 0.1.0 | experimental prerelease | macOS arm64 CLI tests; host-native discovery untested |
 | [prompt-architect](skills/prompt-architect/) | Builds a task method, reads current vendor guidance, and writes a ready-to-paste prompt. [First-use tutorial](docs/prompt-architect/FIRST-USE.md). | 0.1.0 | experimental prerelease | Codex on macOS; Claude Code by explicit file path only |
