@@ -1,6 +1,6 @@
-# Inspect GitHub Agent Resources
+# GitHub Agent Resource Review
 
-Author: Ansel. Display name: Agent Resource Review by Ansel.
+Author: Ansel.
 
 Inspect GitHub agent resources for task fit, security risks, and version acceptance. The skill combines a bounded, source-based security review with practical guidance on usefulness, tradeoffs, and the next verification. It retains traceable versions, inspected surfaces, findings, and gaps. A dependency-free Node.js helper inventories an authorized local snapshot without running its code.
 

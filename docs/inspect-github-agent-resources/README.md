@@ -1,4 +1,4 @@
-# Agent Resource Review by Ansel
+# GitHub Agent Resource Review
 
 Review a skill, plugin, MCP server, or agent template before adopting it or accepting an update. Connect task fit, static security findings, and version evidence to a concrete next verification.
 

@@ -2,6 +2,8 @@
 
 Agent skills by Ansel. Each folder under `skills/` installs on its own.
 
+Skill folder names and the `name` field in `SKILL.md` are the technical identifiers. Display names describe the task; author and maintainer credits are listed separately.
+
 | Skill | What it does | Version | Status | Verified on |
 |---|---|---|---|---|
 | [red-team-gate](skills/red-team-gate/) | Puts one claim through an independent attempt to refute it before you rely on it. [Report guide](skills/red-team-gate/README.md#read-a-report) · [Try it](skills/red-team-gate/README.md#try-it-without-installing). | 0.1.0 | experimental prerelease | Codex on macOS |

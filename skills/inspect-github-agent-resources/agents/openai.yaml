@@ -1,4 +1,4 @@
 interface:
-  display_name: "Agent Resource Review by Ansel"
+  display_name: "GitHub Agent Resource Review"
   short_description: "Review agent resource fit, security risks and evidence"
   default_prompt: "Use $inspect-github-agent-resources to review a resource's task fit, security risks and version acceptance, with source evidence, coverage gaps and the next verification."

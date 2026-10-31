@@ -6,7 +6,7 @@ metadata:
   version: "0.1.0"
 ---
 
-# Inspect GitHub Agent Resources
+# GitHub Agent Resource Review
 
 Help the user assess an agent resource's usefulness, security risks, and acceptance conditions. Explain how it would fit their work, which source-based concerns affect the intended use, and what must be verified before relying on it. Security review is a core part of a candidate audit, not an optional addition to a feature comparison. Keep the evidence traceable. A catalog of features or risk labels alone does not complete this task.
 

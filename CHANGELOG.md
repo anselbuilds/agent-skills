@@ -24,6 +24,10 @@ First public release, experimental. Tested on Codex on macOS; see `docs/red-team
 
 ## inspect-github-agent-resources
 
+### Unreleased
+
+Standardized the display name and documentation titles as **GitHub Agent Resource Review**. Author and maintainer attribution remains Ansel. The `inspect-github-agent-resources` identifier, folder path, invocation and behavior are unchanged.
+
 ### 0.1.0, tag `inspect-github-agent-resources-v0.1.0`, 2026-10-24
 
 Moved from anselbuilds/inspect-github-agent-resources, release v0.1.0 (commit 2d43edf0). The content is the same as that release, except that the links for reporting issues and security problems now point to this repository, because the old repository is archived.
